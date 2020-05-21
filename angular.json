@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ng-redux": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-redux"
+    }
+  },
+  "defaultProject": "ng-redux",
+  "cli": {
+    "analytics": "61010cfd-7289-465f-b2d2-99e2a2ba65dc"
+  }
 }
